@@ -1,2 +1,13 @@
 # Case-study-on-Bank-Telemarketing
-ase study on ‘Bank Marketing Campaign Dataset’. Though data cleaning is often done in a somewhat haphazard manner, and it is difficult to define a ‘single structured process’, you will study data cleaning through the following steps:  Identifying the data types  Fixing the rows and columns  Imputing/removing missing values  Handling outliers  Standardising the values  Fixing invalid values  Filtering the data
+In this case study on ‘Bank Marketing Campaign Dataset’ we perform the following steps:  
+- Identifying the data types  
+- Fixing the rows and columns  
+- Imputing/removing missing values  
+- Handling outliers  
+- Standardising the values  
+- Fixing invalid values  
+- Filtering the data
+- Univariate Analysis
+- Bi/Multivariate Analysis
+
+Seperate spreadsheet is provided to explain the various variables in the dataset.
